@@ -1,5 +1,6 @@
 # Hangman-Game
 This Python app  implements a classic game of Hangman. The game selects a random word from a predefined list (hangman_words.word_list) and prompts the player to guess letters one at a time. The player has 6 lives, and each incorrect guess reduces the number of lives remaining. The game provides visual feedback using ASCII art stages (hangman_art.stages) to represent the hangman's progress.
+- Give it a try : https://www.pythonanywhere.com/gists/320848aa89955fba8531a25bfb124ad3/hangman_game.py/python/
 # Features:
 * Random Word Selection: The game randomly picks a word from a list of predefined words.
 
